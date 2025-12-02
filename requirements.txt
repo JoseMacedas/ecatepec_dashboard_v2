@@ -1,5 +1,5 @@
 streamlit==1.39.0
 plotly==5.22.0
-pandas==2.2.2 --only-binary=:all:
-numpy==2.0.2 --only-binary=:all:
-matplotlib==3.9.0 --only-binary=:all:
+pandas==2.2.3
+numpy==2.1.1
+matplotlib==3.9.2
