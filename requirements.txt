@@ -1,8 +1,5 @@
-streamlit
-pandas
-numpy
-matplotlib
-plotly
-reportlab
-gspread
-oauth2client
+streamlit==1.39.0
+plotly==5.22.0
+pandas==2.2.2 --only-binary=:all:
+numpy==2.0.2 --only-binary=:all:
+matplotlib==3.9.0 --only-binary=:all:
