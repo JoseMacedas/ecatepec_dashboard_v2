@@ -202,7 +202,6 @@ if not st.session_state["started"]:
         st.subheader("📊 Resumen rápido")
         st.write("• Modelo pensado para el contexto de Ecatepec.")
         st.write("• Soporta gráficas interactivas y reportes exportables.")
-        st.write("• Ideal para presentar en clase como prototipo funcional.")
         st.markdown("</div>", unsafe_allow_html=True)
 
     st.stop()  # No sigue al resto del código hasta que presionen el botón
